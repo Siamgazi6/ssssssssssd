@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=Saim` + encodeURI(path as string)
+					`https://vercel.com/siam12/yeyyry1/FRRLekYB73UstKbGcCFsXek8pcES` + encodeURI(path as string)
 				}`,
 			},
 		};
