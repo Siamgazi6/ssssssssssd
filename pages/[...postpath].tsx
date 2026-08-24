@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://t.co/zVTxrrQt6z` 
+					`https://gfhfghgfh5356.vercel.app/` 
 				}`,
 			},
 		};
